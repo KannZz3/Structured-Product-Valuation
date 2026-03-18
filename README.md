@@ -1,6 +1,6 @@
-# Derivative-Contracts
+# Structured Product Valuation
 
-A collection of concise valuation write-ups on structured derivative products.
+A collection of concise valuation write-ups on structured products.
 
 ## Contents
 - **Dual-Directional Buffered PLUS linked to the S&P 500 Index**  
@@ -18,4 +18,4 @@ Each report typically covers:
 - valuation methodology
 - main valuation results
 
-More derivative contract case studies may be added over time.
+More structured product case studies may be added over time.
