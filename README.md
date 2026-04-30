@@ -9,6 +9,9 @@ A collection of concise valuation write-ups on structured products.
 - **Walmart Trigger Autocallable Contingent Yield Note**  
   [SEC filing](https://www.sec.gov/Archives/edgar/data/886982/000095017025073587/gs-20250516.htm)
 
+- **UBS Worst-of Memory Coupon Autocallable Note**  
+  [SEC filing](https://www.sec.gov/Archives/edgar/data/1114446/000183988226016558/ubs_424b2-10549.htm)
+
 ## Overview
 This repository contains PDF reports on selected equity-linked structured products.  
 Each report typically covers:
